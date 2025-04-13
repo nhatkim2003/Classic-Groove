@@ -1,4 +1,3 @@
-# Web 2
 
 Đại học Sài Gòn <br>
 Đề tài: cửa hàng bán đĩa than. <br>
